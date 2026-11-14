@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="1200" height="16" role="img" aria-label="Section divider">
+  <defs>
+    <pattern id="ticks" width="24" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0.5 5V11" stroke="#8f8a80" stroke-opacity=".45"/>
+    </pattern>
+  </defs>
+  <style>
+    .run { transform: translateX(540px); }
+    @media (prefers-reduced-motion: no-preference) {
+      .run { animation: run 6s cubic-bezier(.65,0,.35,1) infinite alternate; }
+    }
+    @keyframes run { from { transform: translateX(0); } to { transform: translateX(1080px); } }
+  </style>
+  <rect x="0" y="0" width="1200" height="16" fill="url(#ticks)"/>
+  <path d="M0 8.5H1200" stroke="#8f8a80" stroke-opacity=".6"/>
+  <g class="run">
+    <rect x="0" y="7" width="120" height="3" fill="#ff4f00"/>
+    <rect x="124" y="5" width="6" height="7" fill="#ff4f00"/>
+  </g>
+</svg>
