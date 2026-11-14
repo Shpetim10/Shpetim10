@@ -321,10 +321,10 @@ public record Engineer(String name, String role, String location, List<String> f
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shpetim10&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0b0a08&title_color=ff4f00&text_color=ede8df&icon_color=ff4f00&ring_color=ff4f00" alt="Shpëtim's GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/Shpetim10/Shpetim10/output/stats.svg" alt="Shpëtim's GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=Shpetim10&hide_border=true&background=0B0A08&ring=FF4F00&fire=FF4F00&currStreakNum=EDE8DF&sideNums=EDE8DF&currStreakLabel=FF4F00&sideLabels=8F8A80&dates=8F8A80&stroke=1E1C19" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shpetim10&hide_border=true&area=true&bg_color=0b0a08&color=8f8a80&line=ff4f00&point=ede8df&area_color=ff4f00&title_color=ede8df" alt="Contribution activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/Shpetim10/Shpetim10/output/activity.svg" alt="Contribution activity graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shpetim10/Shpetim10/output/snake-dark.svg" />
