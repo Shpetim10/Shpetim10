@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="159 contributions in the last 31 days">
+  
+  <style>
+    .t { font-family: 'Martian Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .row { opacity: 1; }
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 0; }
+    .fade { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      .row { animation: rise .7s cubic-bezier(.16,1,.3,1) both; }
+      .draw { animation: draw 1.6s cubic-bezier(.65,0,.35,1) .2s both; }
+      .fade { animation: fade .8s ease-out 1.2s both; }
+    }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff4f00" stop-opacity=".28"/><stop offset="1" stop-color="#ff4f00" stop-opacity="0"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="999" height="279" fill="#0b0a08" stroke="#2a2824"/>
+  <text class="t" x="56" y="32" font-size="13" letter-spacing="2" fill="#ede8df">CONTRIBUTIONS · LAST 31 DAYS</text>
+  <text class="t" x="976" y="32" font-size="11" letter-spacing="1.5" fill="#8f8a80" text-anchor="end"><tspan fill="#ff4f00">159</tspan> TOTAL</text>
+  <path d="M56 236.0H976" stroke="#2a2824" stroke-width="1"/>
+      <text class="t" x="46" y="239.5" font-size="9.5" fill="#8f8a80" text-anchor="end">0</text>
+<path d="M56 191.0H976" stroke="#2a2824" stroke-width="1"/>
+      <text class="t" x="46" y="194.5" font-size="9.5" fill="#8f8a80" text-anchor="end">6</text>
+<path d="M56 146.0H976" stroke="#2a2824" stroke-width="1"/>
+      <text class="t" x="46" y="149.5" font-size="9.5" fill="#8f8a80" text-anchor="end">12</text>
+<path d="M56 101.0H976" stroke="#2a2824" stroke-width="1"/>
+      <text class="t" x="46" y="104.5" font-size="9.5" fill="#8f8a80" text-anchor="end">18</text>
+<path d="M56 56.0H976" stroke="#2a2824" stroke-width="1"/>
+      <text class="t" x="46" y="59.5" font-size="9.5" fill="#8f8a80" text-anchor="end">24</text>
+  <text class="t" x="56.0" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">10/22</text><text class="t" x="209.3" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">10/27</text><text class="t" x="362.7" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">11/01</text><text class="t" x="516.0" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">11/06</text><text class="t" x="669.3" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">11/11</text><text class="t" x="822.7" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">11/16</text><text class="t" x="976.0" y="256" font-size="9.5" fill="#8f8a80" text-anchor="middle">11/21</text>
+  <path class="fade" d="M56.0 236.0L86.7 161.0L117.3 176.0L148.0 221.0L178.7 228.5L209.3 213.5L240.0 183.5L270.7 236.0L301.3 236.0L332.0 161.0L362.7 221.0L393.3 146.0L424.0 168.5L454.7 191.0L485.3 213.5L516.0 198.5L546.7 191.0L577.3 101.0L608.0 198.5L638.7 228.5L669.3 236.0L700.0 236.0L730.7 168.5L761.3 123.5L792.0 236.0L822.7 228.5L853.3 236.0L884.0 213.5L914.7 63.5L945.3 236.0L976.0 236.0L976.0 236L56 236Z" fill="url(#a)"/>
+  <path class="draw" pathLength="1" d="M56.0 236.0L86.7 161.0L117.3 176.0L148.0 221.0L178.7 228.5L209.3 213.5L240.0 183.5L270.7 236.0L301.3 236.0L332.0 161.0L362.7 221.0L393.3 146.0L424.0 168.5L454.7 191.0L485.3 213.5L516.0 198.5L546.7 191.0L577.3 101.0L608.0 198.5L638.7 228.5L669.3 236.0L700.0 236.0L730.7 168.5L761.3 123.5L792.0 236.0L822.7 228.5L853.3 236.0L884.0 213.5L914.7 63.5L945.3 236.0L976.0 236.0" fill="none" stroke="#ff4f00" stroke-width="2" stroke-linejoin="round"/>
+  <g class="fade"><rect x="84.2" y="158.5" width="5" height="5" fill="#ede8df"/><rect x="114.8" y="173.5" width="5" height="5" fill="#ede8df"/><rect x="145.5" y="218.5" width="5" height="5" fill="#ede8df"/><rect x="176.2" y="226.0" width="5" height="5" fill="#ede8df"/><rect x="206.8" y="211.0" width="5" height="5" fill="#ede8df"/><rect x="237.5" y="181.0" width="5" height="5" fill="#ede8df"/><rect x="329.5" y="158.5" width="5" height="5" fill="#ede8df"/><rect x="360.2" y="218.5" width="5" height="5" fill="#ede8df"/><rect x="390.8" y="143.5" width="5" height="5" fill="#ede8df"/><rect x="421.5" y="166.0" width="5" height="5" fill="#ede8df"/><rect x="452.2" y="188.5" width="5" height="5" fill="#ede8df"/><rect x="482.8" y="211.0" width="5" height="5" fill="#ede8df"/><rect x="513.5" y="196.0" width="5" height="5" fill="#ede8df"/><rect x="544.2" y="188.5" width="5" height="5" fill="#ede8df"/><rect x="574.8" y="98.5" width="5" height="5" fill="#ede8df"/><rect x="605.5" y="196.0" width="5" height="5" fill="#ede8df"/><rect x="636.2" y="226.0" width="5" height="5" fill="#ede8df"/><rect x="728.2" y="166.0" width="5" height="5" fill="#ede8df"/><rect x="758.8" y="121.0" width="5" height="5" fill="#ede8df"/><rect x="820.2" y="226.0" width="5" height="5" fill="#ede8df"/><rect x="881.5" y="211.0" width="5" height="5" fill="#ede8df"/><rect x="912.2" y="61.0" width="5" height="5" fill="#ede8df"/></g>
+</svg>
